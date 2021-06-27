@@ -1,0 +1,14 @@
+{
+  "name": "51book",
+  "version": "1.0.0",
+  "description": "51 help for newers",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
