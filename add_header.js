@@ -8,6 +8,6 @@ const prefix = fs.readFileSync('./header').toString()
 for(const file of files){
     console.log(file)
     let content = fs.readFileSync(file).toString()
-    content = '<!--\n' + prefix + '\n-->\n' + content
+    content = '<!--\n' + prefix.split('%lastbd%').join(new Date().toLocaleString()) + '\n-->\n' + content
     fs.writeFileSync(file, content)
 }
