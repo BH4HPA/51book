@@ -7,7 +7,33 @@ module.exports = {
         externalLinks: { target: '_blank' }
     },
     head: [
-        ['script',{'remark':'百度统计'},`var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?89c2fe6b6514ef31e889450cee8599ac";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();`]
+        ['script',{'async' : true,'remark':'谷歌统计','src':'https://www.googletagmanager.com/gtag/js?id=G-KBCEGHYVVV'}],
+        ['script',{'remark':'统计'},`
+        if(window.location.host === "51.r-ay.cn"){
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-KBCEGHYVVV');
+
+            var _paq = window._paq = window._paq || [];
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+              var u="https://tr.wd-ljt.com/";
+              _paq.push(['setTrackerUrl', u+'matomo.php']);
+              _paq.push(['setSiteId', '9']);
+              var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+              g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+            
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.src = "https://hm.baidu.com/hm.js?89c2fe6b6514ef31e889450cee8599ac";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+        `]
     ],
     themeConfig: {
         docsRepo: 'ENDsoft233/51book',
