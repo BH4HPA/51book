@@ -17,7 +17,7 @@ module.exports = {
         lastUpdated: '上次修改 ',
         nav: [
             { text: '加入读者交流群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=z-_ivibiwB4JEXrBdCB2oK9SzhJp8gq_&jump_from=webapi' },
-            { text: '返回 五十一中官网', link: 'https://www.wz51z.com/' }
+            { text: '返回 五十一中官网', link: 'http://www.wz51z.com/' }
         ],
         sidebar: [
             ['/', '开始之前'],
