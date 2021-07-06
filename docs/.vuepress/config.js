@@ -6,6 +6,9 @@ module.exports = {
         lineNumbers: true,
         externalLinks: { target: '_blank' }
     },
+    head: [
+        ['script',{'remark':'百度统计'},`var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?89c2fe6b6514ef31e889450cee8599ac";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();`]
+    ],
     themeConfig: {
         docsRepo: 'ENDsoft233/51book',
         docsBranch: 'master',
