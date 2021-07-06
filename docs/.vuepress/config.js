@@ -13,6 +13,7 @@ module.exports = {
         editLinkText: '帮我们一起完善',
         lastUpdated: '上次修改 ',
         nav: [
+            { text: '加入读者交流群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=z-_ivibiwB4JEXrBdCB2oK9SzhJp8gq_&jump_from=webapi' },
             { text: '返回 五十一中官网', link: 'https://www.wz51z.com/' }
         ],
         sidebar: [
@@ -28,7 +29,8 @@ module.exports = {
                   '/新生准备/文化生活'
                 ]
             },
-            ['/知识百科/', '知识百科']
+            ['/知识百科/', '知识百科'],
+            ['/联系我们.md', '联系我们']
         ],
         smoothScroll: true
     },
