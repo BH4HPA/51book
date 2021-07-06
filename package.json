@@ -5,10 +5,11 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "glob": "^7.1.7",
     "vuepress": "^1.8.2"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs && node add_header.js"
   }
 }
