@@ -6,6 +6,12 @@ module.exports = {
         lineNumbers: true,
         externalLinks: { target: '_blank' }
     },
+    locales:{
+        '/': {
+            lang: 'zh-CN',
+            description: '温州市第五十一中学新生导引手册。'
+        }
+    },
     head: [
         ['script',{'async' : true,'remark':'谷歌统计','src':'https://www.googletagmanager.com/gtag/js?id=G-KBCEGHYVVV'}],
         ['script',{'remark':'统计'},`
