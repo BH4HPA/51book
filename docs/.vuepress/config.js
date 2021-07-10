@@ -1,5 +1,6 @@
 module.exports = {
     title: '温州市第五十一中学新生导引',
+    description: '温州市第五十一中学新生导引，提供五十一中生存学习攻略，帮助新同学快速了解校园，融入校园，更快地进入学习环境。',
     base: '/',
     serviceWorker: true,
     markdown: {
