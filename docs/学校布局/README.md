@@ -113,8 +113,6 @@
 
 ![东教学楼后侧宣传栏](https://static.wd-ljt.com/ray-51-images-new/东教学楼后侧宣传栏.jpg?x-oss-process=image/resize,h_1080)
 
-![丰巢快递柜](https://static.wd-ljt.com/ray-51-images-new/丰巢快递柜.jpg?x-oss-process=image/resize,h_1080)
-
 ![乒乓球室](https://static.wd-ljt.com/ray-51-images-new/乒乓球室.jpg?x-oss-process=image/resize,h_1080)
 
 ![体育组办公室](https://static.wd-ljt.com/ray-51-images-new/体育组办公室.jpg?x-oss-process=image/resize,h_1080)
@@ -122,10 +120,6 @@
 ![喷泉](https://static.wd-ljt.com/ray-51-images-new/喷泉.jpg?x-oss-process=image/resize,h_1080)
 
 ![喷泉外侧](https://static.wd-ljt.com/ray-51-images-new/喷泉外侧.jpg?x-oss-process=image/resize,h_1080)
-
-![小门](https://static.wd-ljt.com/ray-51-images-new/小门.jpg?x-oss-process=image/resize,h_1080)
-
-![投食窗口](https://static.wd-ljt.com/ray-51-images-new/投食窗口.jpg?x-oss-process=image/resize,h_1080)
 
 ![操场-主席台](https://static.wd-ljt.com/ray-51-images-new/操场-主席台.jpg?x-oss-process=image/resize,h_1080)
 
