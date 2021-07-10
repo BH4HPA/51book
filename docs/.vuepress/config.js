@@ -9,8 +9,7 @@ module.exports = {
     },
     locales:{
         '/': {
-            lang: 'zh-CN',
-            description: '温州市第五十一中学新生导引手册。'
+            lang: 'zh-CN'
         }
     },
     head: [
