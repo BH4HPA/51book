@@ -13,6 +13,7 @@ module.exports = {
         }
     },
     head: [
+        ['meta', { "http-equiv": 'Content-Type', content: 'text/html; charset=UTF-8'}],
         ['meta', { name: 'keywords', content: '温州市第五十一中学,温州市五十一中学,温州市第51中学,温州市51中学,五十一中学,五十一中,51中,51中学,温五十一中,温51中,浙江省温州中学,温州中学,温一中,新生,五十一中新生,温州市第五十一中学贴吧,新生导引,新生攻略' }],
         ['script',{'async' : true,'remark':'谷歌统计','src':'https://www.googletagmanager.com/gtag/js?id=G-KBCEGHYVVV'}],
         ['script',{'remark':'统计'},`
