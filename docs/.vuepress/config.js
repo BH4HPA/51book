@@ -44,7 +44,8 @@ module.exports = {
     ],
     themeConfig: {
         docsRepo: 'ENDsoft233/51book',
-        docsBranch: 'master',
+        docsDir: 'docs',
+        docsBranch: 'main',
         editLinks: true,
         editLinkText: '帮我们一起完善',
         lastUpdated: '上次修改 ',
