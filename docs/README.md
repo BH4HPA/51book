@@ -9,7 +9,7 @@ title: 首页
 你可以在 [GitHub](https://github.com/ENDsoft233/51book/) 获取到本导引的所有 Markdown 源文件。
 
 ::: tip 关于我们
-本导引由一位2022届校友牵头编写，纯自发组织，与学校无关。
+本导引由一位 2022 届校友牵头编写，纯自发组织，与学校无关。
 
 内容基本上是贡献成员的亲身经历，我们已经尽量做到公正客观。
 
@@ -20,7 +20,12 @@ title: 首页
 若本导引中任何所提及内容发生变化，以实际为准，本导引亦不承担任何责任，同时欢迎贡献本导引，帮助本导引适应新情况。
 :::
 
+::: warning 提请注意
+本导引尚未完全进入正常运行状态，还有许多区块等待修订与更新，请您[加入读者交流群](https://qm.qq.com/cgi-bin/qm/qr?k=z-_ivibiwB4JEXrBdCB2oK9SzhJp8gq_&jump_from=webapi)，以接收最新的导引动态。
+:::
+
 ::: details 高级主题：贡献本导引
+
 - 如果您熟悉 GitHub 和 Markdown 语法
 
 本导引在 GitHub 上开源，如果您熟悉在 GitHub 上操作，您可以通过 Clone 后修改再发起 Pull Request 的方式参与贡献本导引，您的贡献将被永远记录在所贡献文件的 Contributor 之中。
