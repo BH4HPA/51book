@@ -5,6 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
     "glob": "^7.1.7",
     "vuepress": "^1.8.2"
   },
