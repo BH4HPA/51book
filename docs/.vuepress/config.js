@@ -54,7 +54,7 @@ module.exports = {
     docsBranch: 'main',
     editLinks: true,
     editLinkText: '帮我们一起完善',
-    logo: 'https://i.loli.net/2021/07/18/X9h3ZYpyNK7jwCS.png',
+    logo: 'https://i.loli.net/2021/07/18/C8VybnX4NUEIDJT.png',
     lastUpdated: '上次修改 ',
     nav: [
       { text: '加入读者交流群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=z-_ivibiwB4JEXrBdCB2oK9SzhJp8gq_&jump_from=webapi' },
