@@ -4,7 +4,7 @@ const svgContent = `<svg viewBox="0 0 460 460" width="24" height="24" xmlns="htt
 
 async function main () {
   console.log('now starting to fetch contributors in github.')
-  let ctbxhr = await axios.get('https://api.github.com/repos/ENDsoft233/51book/contributors');
+  let ctbxhr = await axios.get('https://api.github.com/repos/ENDsoft233/51book/contributors?r=' + Math.random());
   let contributor = {}
   for (i = 0; i < ctbxhr.data.length; i++) {
     contributor = ctbxhr.data[i]
