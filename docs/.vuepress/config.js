@@ -19,29 +19,18 @@ module.exports = {
     ['meta', { "itemprop": 'image', content: 'https://i.loli.net/2021/07/18/X9h3ZYpyNK7jwCS.png' }],
     ['meta', { "http-equiv": 'Content-Type', content: 'text/html; charset=UTF-8' }],
     ['meta', { name: 'keywords', content: '温州市第五十一中学,温州市五十一中学,温州市第51中学,温州市51中学,五十一中学,五十一中,51中,51中学,温五十一中,温51中,浙江省温州中学,温州中学,温一中,新生,五十一中新生,温州市第五十一中学贴吧,新生导引,新生攻略' }],
-    ['script', { 'async': true, 'remark': '谷歌统计', 'src': 'https://www.googletagmanager.com/gtag/js?id=G-KBCEGHYVVV' }],
+    ['script', { 'async': true, 'remark': '谷歌统计', 'src': 'https://www.googletagmanager.com/gtag/js?id=G-DYCSYN7GFC' }],
     ['script', { 'remark': '统计' }, `
-        if(window.location.host === "51.r-ay.cn"){
+        if(window.location.host === "www.wz51z.wiki"){
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-KBCEGHYVVV');
-
-            var _paq = window._paq = window._paq || [];
-            _paq.push(['trackPageView']);
-            _paq.push(['enableLinkTracking']);
-            (function() {
-              var u="https://tr.wd-ljt.com/";
-              _paq.push(['setTrackerUrl', u+'matomo.php']);
-              _paq.push(['setSiteId', '9']);
-              var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-              g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-            })();
+            gtag('config', 'G-DYCSYN7GFC');
             
             var _hmt = _hmt || [];
             (function() {
               var hm = document.createElement("script");
-              hm.src = "https://hm.baidu.com/hm.js?89c2fe6b6514ef31e889450cee8599ac";
+              hm.src = "https://hm.baidu.com/hm.js?5c7b60df1e46195f2dda5d21854f3a3a";
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
