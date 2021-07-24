@@ -69,9 +69,9 @@ module.exports = {
         link: '/学校文化/',
         children: [
           { text: '开始之前', link: '/学校文化/' },
-          { text: '寝室生活', link: '/学校文化/校志.md' },
-          { text: '学习生活', link: '/学校文化/校训.md' },
-          { text: '文化生活', link: '/学校文化/办学历程.md' }
+          { text: '校志', link: '/学校文化/校志.md' },
+          { text: '校训', link: '/学校文化/校训.md' },
+          { text: '办学历程', link: '/学校文化/办学历程.md' }
         ]
       },
       { text: '学校布局', link: '/学校布局/' },
