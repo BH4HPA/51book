@@ -2,16 +2,7 @@ module.exports = {
   title: '温州市第五十一中学新生导引',
   description: '温州市第五十一中学新生导引，提供五十一中生存学习攻略，帮助新同学快速了解校园，融入校园，更快地进入学习环境。',
   base: '/',
-  serviceWorker: true,
-  markdown: {
-    lineNumbers: true,
-    externalLinks: { target: '_blank' }
-  },
-  locales: {
-    '/': {
-      lang: 'zh-CN'
-    }
-  },
+  lang: 'zh-CN',
   plugins: ['@vuepress/plugin-search'],
   head: [
     ['link', { "rel": 'icon', href: 'https://i.loli.net/2021/07/18/X9h3ZYpyNK7jwCS.png' }],
@@ -40,6 +31,10 @@ module.exports = {
         }
         `]
   ],
+  markdown: {
+    links: true,
+    anchor: false
+  },
   themeConfig: {
     docsRepo: 'ENDsoft233/51book',
     docsDir: 'docs',
@@ -51,6 +46,7 @@ module.exports = {
     lastUpdatedText: '上次修改 ',
     contributors: true,
     contributorsText: '本页贡献者 ',
+    openInNewWindow: '在新标签页打开',
     notFound: ['没找到你要的，刷新试试？'],
     backToHome: '返回首页。',
     navbar: [
@@ -184,11 +180,6 @@ module.exports = {
       { text: '学业规划', link: '/学业规划/' },
       { text: '知识百科', link: '/知识百科/' },
       { text: '联系我们', link: '/联系我们.md' }
-    ],
-    smoothScroll: true
-  },
-  markdown: {
-    anchor: false
-  },
-  evergreen: true
+    ]
+  }
 }
