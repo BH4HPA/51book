@@ -12,6 +12,7 @@ module.exports = {
       lang: 'zh-CN'
     }
   },
+  plugins: ['@vuepress/plugin-search'],
   head: [
     ['link', { "rel": 'icon', href: 'https://i.loli.net/2021/07/18/X9h3ZYpyNK7jwCS.png' }],
     ['meta', { "itemprop": 'image', content: 'https://i.loli.net/2021/07/18/X9h3ZYpyNK7jwCS.png' }],

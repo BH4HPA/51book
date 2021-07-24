@@ -13,5 +13,10 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "node add_github_contributors.js && vuepress build docs && node add_header.js && node add_sitemap.js",
     "docs:buildonly": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vue/component-compiler-utils": "^3.2.2",
+    "@vuepress/plugin-search": "^1.8.2",
+    "@vuepress/shared-utils": "^1.8.2"
   }
 }
