@@ -46,6 +46,8 @@ module.exports = {
     lastUpdatedText: '上次修改 ',
     contributors: true,
     contributorsText: '本页贡献者 ',
+    notFound: ['没找到你要的，刷新试试？'],
+    backToHome: '返回首页。',
     navbar: [
       { text: '加入读者交流群', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=z-_ivibiwB4JEXrBdCB2oK9SzhJp8gq_&jump_from=webapi' },
       { text: '返回 五十一中官网', link: 'http://www.wz51z.com/' }
