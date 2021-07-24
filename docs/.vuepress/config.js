@@ -187,5 +187,8 @@ module.exports = {
     ],
     smoothScroll: true
   },
+  markdown: {
+    anchor: false
+  },
   evergreen: true
 }
