@@ -32,6 +32,10 @@ module.exports = {
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
+        }else if(window.location.host === "localhost:8080"){
+          console.log('dev server.')
+        }else{
+          window.location.href = 'https://www.wz51z.wiki' + window.location.href.substring(('https://' + window.location.host).length);
         }
         `]
   ],
