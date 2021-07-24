@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "XxLittleCxX",
+      "name": "_LittleC_",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26459759?v=4",
+      "profile": "https://github.com/XxLittleCxX",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "51book",
+  "projectOwner": "ENDsoft233",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
