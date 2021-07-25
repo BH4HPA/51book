@@ -26,7 +26,7 @@ module.exports = {
             })();
         }else if(window.location.host === "localhost:8080"){
           console.log('dev server.')
-        }else{
+        }else if(window.location.host === "51.r-ay.cn"){
           window.location.href = 'https://www.wz51z.wiki' + window.location.href.substring(('https://' + window.location.host).length);
         }
         `]
