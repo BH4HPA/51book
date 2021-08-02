@@ -8,6 +8,19 @@ title: 首页
 
 请查看左侧的目录，或是使用右上角的搜索，来寻找你想要的内容。
 
+<div class="video" style="
+    background-color: #e7ecf3;
+    padding: 1em 1.25em;
+    border-radius: 2px;
+    color: #486491;
+    position: relative;
+"><a href="https://www.bilibili.com/video/BV1NT4y1E7Mx/" target="_blank" rel="noopener noreferrer" style="
+   position: relative;
+   color: #486491 !important;
+   padding-left: 36px;
+">在 Bilibili 上查看学校灵动教育宣传视频。
+</a></div>
+
 ::: tip 关于我们
 本导引由一位 2022 届校友牵头编写，纯自发组织，与学校无关。
 
