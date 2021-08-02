@@ -25,6 +25,20 @@ title: 首页
 :::
 
 ::: details 高级主题：贡献本导引
+<br />
+
+<div class="video" style="
+    background-color: #e7ecf3;
+    padding: 1em 1.25em;
+    border-radius: 2px;
+    color: #486491;
+    position: relative;
+"><a href="https://www.bilibili.com/video/BV1YQ4y1f7tH/" target="_blank" rel="noopener noreferrer" style="
+   position: relative;
+   color: #486491 !important;
+   padding-left: 36px;
+">在 Bilibili 上查看我们的贡献教程视频。
+</a></div>
 
 - 如果您熟悉 GitHub 和 Markdown 语法
 
@@ -36,7 +50,8 @@ title: 首页
 
 - 如果您不熟悉 GitHub
 
-您可以加入本导引的编写交流群，在群中发表您的意见，被采纳后将由我们帮您把您的贡献加入导引之中，但您的名字将不会被留下。
+1. 您可以点击上方视频教程进行学习。
+2. 您也可以加入本导引的编写交流群，在群中发表您的意见，被采纳后将由我们帮您把您的贡献加入导引之中，但您的名字将不会被留下。
 
 - **我们也欢迎长期贡献者**
 
@@ -44,7 +59,7 @@ title: 首页
 
 :::
 
-**本站采用 ![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)  进行许可。** 
+**本站采用 ![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 进行许可。**
 
 #### 贡献者列表
 

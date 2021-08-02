@@ -29,6 +29,31 @@ module.exports = {
         }else if(window.location.host === "51.r-ay.cn"){
           window.location.href = 'https://www.wz51z.wiki' + window.location.href.substring(('https://' + window.location.host).length);
         }
+        `],
+    ['style', { 'remark': 'video' }, `
+        .video a:before{
+          content: '';
+          position: absolute;
+          display: block;
+          width: 30px;
+          height: 30px;
+          top: -5px;
+          left: -4px;
+          border-radius: 50%;
+          background-color: #73abfe;
+        }
+        .video a:after{
+          content: '';
+          position: absolute;
+          display: block;
+          width: 0;
+          height: 0;
+          top: 5px;
+          left: 8px;
+          border-top: 5px solid transparent;
+          border-bottom: 5px solid transparent;
+          border-left: 8px solid #fff;
+        }
         `]
   ],
   markdown: {
