@@ -78,3 +78,15 @@ typings/
 docs/.vuepress/dist
 .vercel
 docs/.vuepress/.temp
+
+# Yarn 2
+
+.yarn/
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
