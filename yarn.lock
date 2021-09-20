@@ -10,7 +10,7 @@ __metadata:
   resolution: "51book@workspace:."
   dependencies:
     "@vue/component-compiler-utils": ^3.2.2
-    "@vuepress/plugin-search": ^1.8.2
+    "@vuepress/plugin-search": 2.0.0-beta.26
     "@vuepress/shared-utils": ^1.8.2
     axios: ^0.21.4
     glob: ^7.1.7
@@ -713,10 +713,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vuepress/plugin-search@npm:^1.8.2":
-  version: 1.8.2
-  resolution: "@vuepress/plugin-search@npm:1.8.2"
-  checksum: ce4d55b54f1bfd3f66a66ced96e8887a7e8ed7d56582da76339ff97769e3a15320be07014bd98032af9a4a580d06d3ccaf603a3b0bf9a71dca57f0c9345ae72b
+"@vuepress/plugin-search@npm:2.0.0-beta.26":
+  version: 2.0.0-beta.26
+  resolution: "@vuepress/plugin-search@npm:2.0.0-beta.26"
+  dependencies:
+    "@vuepress/client": 2.0.0-beta.26
+    "@vuepress/core": 2.0.0-beta.26
+    "@vuepress/shared": 2.0.0-beta.25
+    "@vuepress/utils": 2.0.0-beta.25
+    chokidar: ^3.5.2
+    vue: ^3.2.3
+    vue-router: ^4.0.10
+  checksum: fd5af058ec897b8e61983cfa3681b91d00ab69d29b31f88a984e212011cede518b140e07034208176c283d476d6cca2fb9d2e8c0a264099571743acb2827c368
   languageName: node
   linkType: hard
 
