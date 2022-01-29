@@ -110,7 +110,30 @@ module.exports = {
           { text: '穿', link: "/学校生活/穿.html" },
           { text: '住', link: "/学校生活/住.html" },
           { text: '行', link: "/学校生活/行.html" },
-          { text: '玩', link: "/学校生活/玩.html" },
+          {
+            text: '玩',
+            link: "/学校生活/玩/",
+            children: [
+              { text: '开始之前', link: "/学校生活/玩/" },
+              { text: '军训', link: "/学校生活/玩/军训.html" },
+              { text: '迎新晚会', link: "/学校生活/玩/迎新晚会.html" },
+              { text: '运动会', link: "/学校生活/玩/运动会.html" },
+              { text: '艺术节', link: "/学校生活/玩/艺术节.html" },
+              { text: '寝室文化节', link: "/学校生活/玩/寝室文化节.html" },
+              { text: '社团文化节', link: "/学校生活/玩/社团文化节.html" },
+              { text: '篮球赛', link: "/学校生活/玩/篮球赛.html" },
+              { text: '校园吉尼斯', link: "/学校生活/玩/校园吉尼斯.html" },
+              { text: '暑期社会实践', link: "/学校生活/玩/暑期社会实践.html" },
+              { text: '团日活动', link: "/学校生活/玩/团日活动.html" },
+              { text: '心理活动周', link: "/学校生活/玩/心理活动周.html" },
+              { text: '社团活动', link: "/学校生活/玩/社团.html" },
+              { text: '学科活动月', link: "/学校生活/玩/学科活动月.html" },
+              { text: '校外实践', link: "/学校生活/玩/校外实践.html" },
+              { text: '业余党校', link: "/学校生活/玩/业余党校.html" },
+              { text: '班主任节', link: "/学校生活/玩/班主任节.html" },
+              { text: '成人远足', link: "/学校生活/玩/成人远足.html" },
+            ]
+          },
           { text: '通信', link: "/学校生活/通信.html" },
           { text: '受伤了', link: "/学校生活/受伤了.html" }
         ]

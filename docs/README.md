@@ -8,6 +8,8 @@ title: 首页
 
 请查看左侧的目录，来寻找你想要的内容，或是按照目录顺次浏览。
 
+![7zzWeU.jpg](https://s4.ax1x.com/2022/01/29/7zzWeU.jpg)
+
 <div class="video" style="
     background-color: #e7ecf3;
     padding: 1em 1.25em;
